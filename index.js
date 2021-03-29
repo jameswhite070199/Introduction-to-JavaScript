@@ -17,7 +17,10 @@ Do the following:
 
    HINT: no function required
 */
-
+const votingage = 18
+if (votingage >= 18){
+  console.log(true);
+}
 
 
 /*
@@ -30,7 +33,11 @@ Do the following:
 
    HINT: no function required
 */
-
+let score = 0 
+let points = 10
+if (score + points) {
+  console.log (score = 10);
+}
 
 
 
@@ -45,9 +52,9 @@ Do the following:
 
    HINT: look up the Number method
 */
-
-
-
+let usedcar = "1999"
+parseInt(usedcar, 1999) 
+  console.log(.1999);
 
 /*
 Task 1d - Multiply
